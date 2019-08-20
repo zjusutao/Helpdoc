@@ -1,8 +1,7 @@
 # Helpdoc
 Some help documents.
 
-test push
-
+conflict
 ```ncl
  ;plot wind
   res = True
