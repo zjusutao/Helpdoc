@@ -1,6 +1,8 @@
 # Helpdoc
 Some help documents.
 
+test push
+
 ```ncl
  ;plot wind
   res = True
@@ -8,3 +10,4 @@ Some help documents.
   res@gsnFrame             = False              ; don't advance frame
 
 ```
+
